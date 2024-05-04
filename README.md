@@ -12,6 +12,10 @@ I've also worked on a few different research projects in the areas of Programmin
    and helped proved its [semantic correctness](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kR6ogecAAAAJ&citation_for_view=kR6ogecAAAAJ:u5HHmVD_uO8C). 
  - I developed and implemented an algorithm for synthesizing (automatically generating) [transducers from formal specifications](https://github.com/anvayg/transducer-repair) using SMT solvers. This project was published as a [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kR6ogecAAAAJ&citation_for_view=kR6ogecAAAAJ:u-x6o8ySG0sC).
  - Most recently, I was working on a technique for synthesizing formal semantics of languages using language interpreters as oracles. I have also worked on projects in automated program verification and have experience applying formal methods in industry.
+
+
+You can find more biographical and work related details on my [LinkedIn](https://www.linkedin.com/in/anvay-grover) or [personal website](https://anvayg.github.io).
+
  
 <!--
 **anvayg/anvayg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
