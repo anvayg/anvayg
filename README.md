@@ -13,6 +13,12 @@ I've also worked on a few different research projects in the areas of Programmin
  - I developed and implemented an algorithm for synthesizing (automatically generating) string-manipulating programs modeled as [transducers from formal specifications](https://github.com/anvayg/transducer-repair) using an SMT solver. This project was published as a [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kR6ogecAAAAJ&citation_for_view=kR6ogecAAAAJ:u-x6o8ySG0sC).
  - Most recently, I was working on a technique for synthesizing formal semantics of languages using language interpreters as oracles. I have also worked on projects in automated program verification and have experience applying formal methods in industry.
 
+A few miscellaneous programming projects:
+
+- [models-from-scratch](https://github.com/anvayg/models-from-scratch): Implementations of logistic regression, decision trees, and k-nearest neighbors in Python.
+- [tcp-flow-control](https://github.com/anvayg/tcp-flow-control): An implementation of the flow control algorithm used for TCP using the socket library in Python.
+- [recursion-schemes-synthesis](https://github.com/anvayg/recursion-schemes-synthesis): A toy project exploring program synthesis using catamorphisms.
+
 
 You can find more biographical and work related details on my [LinkedIn](https://www.linkedin.com/in/anvay-grover) or [personal website](https://anvayg.github.io).
 
